@@ -1,4 +1,5 @@
 # Ex02-Outlier
+## Algorithm:
 
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
@@ -17,7 +18,7 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 ##Aim:
 TO detect and remove the outliers in the given data set and save the final data.
 
-##Algorithm:
+
 ##Step 1
 Import the required packages(pandas,numpy,scipy)
 
